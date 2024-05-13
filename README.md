@@ -1,5 +1,7 @@
-### 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-## AIM:
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+### Name: Suman G 
+### Reg no: 212223240163
+## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
 1. Import the necessary python modules.
@@ -71,6 +73,6 @@ start_client()
 ![server 3](https://github.com/SUBBIAH1904/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147473604/33a75331-236c-4923-8bc1-aa71ee41eea9)
 ## Client:
 ![client 3](https://github.com/SUBBIAH1904/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147473604/4a07734d-29c4-4507-9880-df467a2794f5)
-## RESULT:
+## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
